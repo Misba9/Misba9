@@ -1,6 +1,6 @@
 ### Hi there, I`m Ahmed Misbahuddin 👋
 I`m a student,
-- 🔭 I’m Front-end developer
+- 🔭 I’m Full Stack developer
 - 🌱 I’m freelancer
 - 👯 I’m looking to collaborate with other programmer 
 - 🤔 I’m looking for client's 
